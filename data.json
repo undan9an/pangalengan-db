@@ -2,31 +2,47 @@
   "data" : [
 
 {
-"gambar" : "https://drive.google.com/uc?id=1kMo534ENfU-VLMYGhSNZyOzm3zjAsOK0&export=download&v=" ,
-"foto" : "https://drive.google.com/uc?id=1TZRm1KvmCQQO8Okxepbmxe2f-lcFjaUm&export=download&v=" ,
-"judul" : "Dede Repting" ,
-"nama" : "Dede Ramdhani" ,
-"jam" : "Setiap hari 24 jam" ,
-"lokasi" : "Cileunca, Pangalengan" ,
-"order" : "panggil 0" ,
+"gambar" : "https://drive.google.com/uc?id=1AdM_NNLJEJyWP5Zvr7tlWo9pL0G-wBoD&export=download&v=",
+"foto" : "https://drive.google.com/uc?id=1rJhLt5Qq285PFKP4DgHVQkWHeXe7ZG7i&export=download&v=",
+"judul" : "Dede Repting",
+"nama" : "Dede Ramdhani",
+"jam" : "Setiap hari 24 jam",
+"lokasi" : "Cileunca, Pangalengan",
+"order" : "panggil 0",
 "deskripsi" : "Hai kak, mau liburan di Pangalengan dengan harga murah? Yuk langsung saja hubungi “Dede Repting”. Pilihan paket yang beragam dengan fasilitas yang bisa disesuaikan dengan kebutuhan. Diantaranya: rafting (arung jeram), paintball, fun atv, flying fox, offroad, camping ground. Include: makan berat, snack, P3K, safety equipment, dan keperluan lainnya. Yuk segera pesan sekarang juga!",
-"centang":"03/8/2024",
 "id" : "6285798713830",
+"centang" : "05/08/2024",
 "key" : "dede repting dede rafting tour guide pemandu wisata paket wisata arung jeram rafting painball atv flying fox offroad camping ground"
 },
+
 {
-"gambar" : "https://drive.google.com/uc?id=1V7neLeD2WggBiyy0lLKG1rRrFvivhmmZ&export=download&v=" ,
-"foto" : "https://drive.google.com/uc?id=1bBZ05s5HDZf5uaAtGeZ_8TheG2homF0u&export=download&v=" ,
-"judul" : "Nenden Make Up" ,
-"nama" : "Teh Nenden" ,
-"jam" : "Setiap hari 07.00 - 18.00 WIB" ,
-"lokasi" : "Los Cimaung, Desa Margamukti" ,
-"order" : "panggil 1" ,
+"gambar" : "https://drive.google.com/uc?id=17S3oAYN2GkwiCg7mSRnxhCDgVvbjZ2Gk&export=download&v=",
+"foto" : "https://drive.google.com/uc?id=1640lI113svB9F_S45LnsixW56DlNTOT0&export=download&v=",
+"judul" : "Nenden Make Up",
+"nama" : "Teh Nenden",
+"jam" : "Setiap Hari, 07.00 - 18.00 WIB",
+"lokasi" : "Los Cimaung, Desa Margamukti",
+"order" : "panggil 1",
 "deskripsi" : "Mau tampil cantik dan menawan ala barbie di hari spesial kamu? Mau bikin tamu undangan pangling di hari pernikahanmu? Mau tampil natural dengan senyum cantik tanpa harus biaya mahal? Tentu saja “Nenden Make Up” adalah jawaban yang tepat.",
-"centang" : "03/8/2024",
 "id" : "6282214128203",
+"centang" : "05/08/2024",
+"key" : "rias pengantin nenden make up mua wedding organizer acara pernikahan"
+},
+
+{
+"gambar" : "https://drive.google.com/uc?id=17S3oAYN2GkwiCg7mSRnxhCDgVvbjZ2Gk&export=download&v=",
+"foto" : "https://drive.google.com/uc?id=1640lI113svB9F_S45LnsixW56DlNTOT0&export=download&v=",
+"judul" : "Nenden Make Up",
+"nama" : "Teh Nenden",
+"jam" : "Setiap Hari, 07.00 - 18.00 WIB",
+"lokasi" : "Los Cimaung, Desa Margamukti",
+"order" : "panggil 1",
+"deskripsi" : "Mau tampil cantik dan menawan ala barbie di hari spesial kamu? Mau bikin tamu undangan pangling di hari pernikahanmu? Mau tampil natural dengan senyum cantik tanpa harus biaya mahal? Tentu saja “Nenden Make Up” adalah jawaban yang tepat.",
+"id" : "6282214128203",
+"centang" : "05/08/2024",
 "key" : "rias pengantin nenden make up mua wedding organizer acara pernikahan"
 }
+
 
   ]
 }
